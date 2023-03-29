@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c06f9cdd-d474-4fa6-a861-21c66a0fdbab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_arrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays.java" afterDir="false" />
+    <list default="true" id="c06f9cdd-d474-4fa6-a861-21c66a0fdbab" name="Changes" comment="exercícios Práticos de arrays.java">
+      <change afterPath="$PROJECT_DIR$/src/Consoantes_ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1_arrays_multidimencionais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex3_numeros_aleatorios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ordem_Inversa_ex4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,9 +41,37 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays" />
+  <component name="RunManager" selected="Application.ex1_arrays_multidimencionais">
+    <configuration name="Consoantes_ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Consoantes_ex2" />
+      <module name="ex_arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ordem_Inversa_ex4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ordem_Inversa_ex4" />
+      <module name="ex_arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arrays_multidimencionais_ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays_multidimencionais_ex" />
+      <module name="ex_arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex1_arrays_multidimencionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex1_arrays_multidimencionais" />
+      <module name="ex_arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex3_numeros_aleatorios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex3_numeros_aleatorios" />
       <module name="ex_arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -43,7 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.arrays" />
+        <item itemvalue="Application.ex1_arrays_multidimencionais" />
+        <item itemvalue="Application.Ordem_Inversa_ex4" />
+        <item itemvalue="Application.ex3_numeros_aleatorios" />
+        <item itemvalue="Application.Consoantes_ex2" />
+        <item itemvalue="Application.arrays_multidimencionais_ex" />
       </list>
     </recent_temporary>
   </component>
@@ -56,6 +96,25 @@
       <option name="presentableId" value="Default" />
       <updated>1680121419462</updated>
     </task>
+    <task id="LOCAL-00001" summary="exercícios Práticos de arrays.java">
+      <created>1680122008449</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680122008449</updated>
+    </task>
+    <task id="LOCAL-00002" summary="exercícios Práticos de arrays.java">
+      <created>1680122234327</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680122234327</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="exercícios Práticos de arrays.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercícios Práticos de arrays.java" />
   </component>
 </project>

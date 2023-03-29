@@ -1,4 +1,4 @@
-public class arrays {
+public class Ordem_Inversa_ex4 {
     public static void main(String[] args) {
 
         int[] vetor = new int[]{-5, -6, 15, 50, 8, 4};
